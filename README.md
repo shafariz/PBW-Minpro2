@@ -4,6 +4,8 @@ Shafa Rizqi Nur Wahidah (2409116041)
 
 Sistem Informasi B 2024
 
+---
+
 ## 📖 Deskripsi
 
 Mini Project 2 ini merupakan pengembangan dari Mini Project 1, yaitu mengubah website portfolio yang sebelumnya bersifat statis (HTML) menjadi dinamis menggunakan PHP dan MySQL.
