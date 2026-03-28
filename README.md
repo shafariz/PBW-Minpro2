@@ -1,6 +1,7 @@
 # 📌 Mini Project 2 - Pemrograman Berbasis Web
 
 Shafa Rizqi Nur Wahidah (2409116041)
+
 Sistem Informasi B 2024
 
 ## 📖 Deskripsi
